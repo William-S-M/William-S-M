@@ -9,13 +9,13 @@
 
 **Microsserviços · APIs REST · Integrações do setor público**
 
-[Sobre mim](#-sobre-mim) · [Stack](#-minha-stack) · [Atuação](#-onde-atuo) · [Princípios](#-como-penso-software)
+[Sobre mim](#sobre-mim) · [Stack](#-minha-stack) · [Atuação](#-onde-atuo) · [Princípios](#-como-penso-software)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou **William S. Martins**, desenvolvedor de software com atuação em **backend, aplicações web e integração de sistemas**.
 
